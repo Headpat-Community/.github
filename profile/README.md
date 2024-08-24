@@ -20,7 +20,7 @@ We believe in the power of community. Our mission is to create a safe, inclusive
 
 We're in the early stages of development, and we'd love your input! Whether you're a developer, designer, or just someone passionate about our cause, there's a place for you in our community.
 
-- **Join the conversation:** Follow our updates and contribute to the discussion on our [GitHub Discussions](#).
+- **Join the conversation:** Follow our updates and contribute to the discussion on each repository.
 - **Contribute to the project:** Check out our open issues, or start your own to help us build the best platform possible.
 - **Spread the word:** Share Headpat with your friends and help us grow our community!
 
