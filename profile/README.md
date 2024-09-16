@@ -26,7 +26,7 @@ We're in the early stages of development, and we'd love your input! Whether you'
 
 ## Stay Connected 🔗
 
-- **Website:** [www.headpat.place](https://headpat.place) (Coming Soon!)
+- **Website:** [www.headpat.place](https://headpat.place)
 - **Discord:** [Join our Discord](https://discord.com/invite/EaQTEKRg2A)
 - **Email:** [help@headpat.place](mailto:help@headpat.place)
 
